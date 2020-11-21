@@ -1,0 +1,37 @@
+---
+title: "Probabilidad y Estadística"
+description: |
+  Material de la cátedra.
+author:
+  - name: Cátedra de Probabilidad y Estadística
+    affiliation: Facultad de Ciencias Agrarias - Universidad Nacional del Nordeste
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Programa de la Materia
+
+
+
+## Teorías
+
+
+[*Tema 3: Variables Aleatorias](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%203_Variables%20Aleatorias.pdf)
+
+
+[*Tema 4: Parámetros y Estimadores](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%204_ParamyEstim.pdf)
+
+
+[*Tema 5: Distribuciones de Variables](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%205_Dist.de%20variables.pdf)
+
+
+
+## Guías de Problemas
+
+
+Todas las guías de problemas están disponibles en https://prob-stats.netlify.app/ 
